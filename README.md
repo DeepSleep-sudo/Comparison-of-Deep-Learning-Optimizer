@@ -1,4 +1,4 @@
-# Deep-Learning Optimizers Comprison 
+# Deep-Learning Optimizer Comprison 
 
 From-scratch implementations of fourteen optimizers spanning 1951 (SGD) to 2024
 (SOAP, Muon, Schedule-Free), each compared on the same three scenarios under the

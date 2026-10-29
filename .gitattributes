@@ -1,0 +1,6 @@
+# Normalise line endings so the repository is identical on Windows, macOS, Linux.
+* text=auto eol=lf
+
+# Binary assets: never touch them.
+*.png binary
+*.pdf binary

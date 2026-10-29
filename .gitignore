@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data downloaded at run time (torchvision fetches MNIST here)
+data/MNIST/
+data/*.gz
+
+# Run logs
+results/logs/*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

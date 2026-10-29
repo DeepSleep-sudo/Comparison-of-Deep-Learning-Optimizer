@@ -1,16 +1,8 @@
-# Fourteen Deep-Learning Optimizers, One Protocol
+# Deep-Learning Optimizers Comprison 
 
 From-scratch implementations of fourteen optimizers spanning 1951 (SGD) to 2024
 (SOAP, Muon, Schedule-Free), each compared on the same three scenarios under the
 same protocol, with every figure reproducible from the shipped JSON metadata.
-
-Every optimizer subclasses `torch.optim.Optimizer` and is a drop-in replacement
-for the built-in version. Each docstring maps the code to the source paper's
-equations.
-
-```
-COMP 6704: Advanced Topics in Optimization -- Group 1
-```
 
 ---
 
